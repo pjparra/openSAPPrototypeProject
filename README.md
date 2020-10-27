@@ -1,0 +1,2 @@
+# openSAPPrototypeProject
+Shared prototype
